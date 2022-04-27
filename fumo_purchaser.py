@@ -10,6 +10,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
 from time import sleep
 from datetime import datetime
+from fumo import Fumo
 
 # CSS Selectors 
 CREDIT_CARD_LABEL = '//label[contains(text(), "Credit card")]'
@@ -25,15 +26,15 @@ ADD_TO_CART_PAGE = 'https://www.amiami.com/eng/cart/'
 
 class FumoPurchaser():
     def __init__(self, fumo, username, password):
-        #threading.Thread.__init__(self)        
         driver_options = Options()
         driver_options.add_argument('--headless')
         self.driver = webdriver.Firefox(options=driver_options)
-        print('[FUMO PURCHASER] Initialized ', end='')
-        print(self.driver)
+        #self.driver = webdriver.Firefox()
         self.fumo = fumo
         self.username = username
         self.password = password
+        print('[FUMO PURCHASER] Initialized ', end='')
+        print(self.fumo.name)
 
     def run(self):
         try:
@@ -46,7 +47,7 @@ class FumoPurchaser():
             print(e)
         finally:
             self.driver.quit()
-            print(self.driver, end='')
+            print(self.fumo.name, end='')
             print(datetime.now()-start)            
 
 
@@ -56,7 +57,7 @@ class FumoPurchaser():
         WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.btn-submit'))).click()
         
     def purchase_fumo(self):
-        self.driver.get(self.fumo)
+        self.driver.get(self.fumo.value)
         self.idle()
         WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, PRODUCT_DETAIL_ADD_CART_8))).click()
         WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_SUBMIT))).click()
@@ -72,9 +73,10 @@ class FumoPurchaser():
     def idle(self):
         while True:
             try:
-                WebDriverWait(self.driver, 5).until(EC.element_to_be_clickable((By.CSS_SELECTOR, PRODUCT_DETAIL_ADD_CART_8)))
+                WebDriverWait(self.driver, 3).until(EC.element_to_be_clickable((By.CSS_SELECTOR, PRODUCT_DETAIL_ADD_CART_8)))
                 break
             except TimeoutException:
                 self.driver.refresh()
-                print('refreshed')
+                print(self.fumo.name, end='')
+                print(' refreshed')
                 continue
