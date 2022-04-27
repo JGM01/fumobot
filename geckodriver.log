@@ -2321,3 +2321,108 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
+1651096971300	geckodriver	INFO	Listening on 127.0.0.1:62447
+1651096971302	geckodriver	INFO	Listening on 127.0.0.1:62450
+1651096971304	geckodriver	INFO	Listening on 127.0.0.1:62449
+1651096971309	geckodriver	INFO	Listening on 127.0.0.1:62448
+1651096971310	geckodriver	INFO	Listening on 127.0.0.1:62451
+1651096971331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62452" "-no-remote" "-profile" "/tmp/rust_mozprofile90rnxg"
+*** You are running in headless mode.
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1651096971587	Marionette	INFO	Marionette enabled
+1651096971808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62453" "-no-remote" "-profile" "/tmp/rust_mozprofilejIbO6O"
+1651096971813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62454" "-no-remote" "-profile" "/tmp/rust_mozprofilelMcQbg"
+1651096971814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62455" "-no-remote" "-profile" "/tmp/rust_mozprofileXrJHwO"
+1651096971829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--headless" "--remote-debugging-port" "62456" "-no-remote" "-profile" "/tmp/rust_mozprofiledMDBfW"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile90rnxg/search.json.mozlz4", (void 0)))
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1651096972453	Marionette	INFO	Marionette enabled
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1651096972485	Marionette	INFO	Marionette enabled
+1651096972485	Marionette	INFO	Marionette enabled
+1651096972486	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:62452/devtools/browser/9b0258b8-22c7-4dc2-a298-2113a610cf32
+1651096972995	Marionette	INFO	Listening on port 62495
+Read port: 62495
+1651096973076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelMcQbg/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejIbO6O/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledMDBfW/search.json.mozlz4", (void 0)))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXrJHwO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62456/devtools/browser/deeb0ae7-41a5-4655-9bbd-ab2f918281d4
+DevTools listening on ws://localhost:62453/devtools/browser/60c7c177-a415-4721-9933-0776941ca8ed
+DevTools listening on ws://localhost:62455/devtools/browser/e671584b-0c67-4e36-8908-b560f5c52585
+1651096974184	Marionette	INFO	Listening on port 62543
+1651096974195	Marionette	INFO	Listening on port 62545
+DevTools listening on ws://localhost:62454/devtools/browser/d19f4882-7413-4c96-9a45-a3b78d977961
+1651096974205	Marionette	INFO	Listening on port 62548
+1651096974227	Marionette	INFO	Listening on port 62549
+Read port: 62545
+Read port: 62548
+Read port: 62549
+1651096974269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651096974270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Read port: 62543
+1651096974270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651096974287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651096989055	Marionette	INFO	Stopped listening on port 62549
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+1651096989972	Marionette	INFO	Stopped listening on port 62495
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651096992667	Marionette	INFO	Stopped listening on port 62548
+1651096992728	Marionette	INFO	Stopped listening on port 62545
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651096994278	Marionette	INFO	Stopped listening on port 62543
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
