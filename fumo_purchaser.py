@@ -1,6 +1,5 @@
-from lib2to3.pgen2 import driver
-import threading
-from typing import final
+from tabnanny import check
+from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -8,9 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.firefox.options import Options
-from time import sleep
 from datetime import datetime
-from fumo import Fumo
 
 # CSS Selectors 
 CREDIT_CARD_LABEL = '//label[contains(text(), "Credit card")]'
@@ -22,7 +19,8 @@ CART_MATOME_1_SUBMIT = '[data-kanshi="cartMatome1Submit"]'
 CART_MATOME_2_SUBMIT = '[data-kanshi="cartMatome2Submit"]'
 CART_MATOME_3_SUBMIT = '[data-kanshi="cartMatome3Submit"]'
 
-ADD_TO_CART_PAGE = 'https://www.amiami.com/eng/cart/'
+PROCEED_TO_CHECKOUT_PAGE = 'https://secure.amiami.com/eng/cartmatome/1/'
+ERROR_PAGE = 'https://www.amiami.com/eng/error/'
 
 class FumoPurchaser():
     def __init__(self, fumo, username, password):
@@ -38,18 +36,17 @@ class FumoPurchaser():
 
     def run(self):
         try:
-            start = datetime.now()
             self.purchase_fumo()
-            print('added to cart')
+            self.check_for_error()
+            print(self.fumo.name, end='')
+            print(' added to cart')
             self.confirm_purchase()
-            print('confirmed purchase')
         except Exception as e:
             print(e)
         finally:
             self.driver.quit()
             print(self.fumo.name, end='')
-            print(datetime.now()-start)            
-
+            print(' exited')
 
     def login(self):
         WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.NAME, 'email'))).send_keys(self.username)
@@ -80,3 +77,13 @@ class FumoPurchaser():
                 print(self.fumo.name, end='')
                 print(' refreshed')
                 continue
+
+    def check_for_error(self):
+        sleep(1.25)
+        #print(self.driver.current_url)
+        if self.driver.current_url != PROCEED_TO_CHECKOUT_PAGE or self.driver.current_url == ERROR_PAGE:
+            print(self.fumo.name, end='')
+            print(' errored')
+            self.run()
+        else:
+            pass

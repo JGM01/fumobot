@@ -1,19 +1,9 @@
-from fumo_purchaser import FumoPurchaser
+from datetime import datetime
 import sys
+
+from fumo_purchaser import FumoPurchaser
 from concurrent import futures
 from fumo import Fumo
-
-FumosTest = [
-    'https://www.amiami.com/eng/detail/?gcode=FIGURE-138984', 
-    'https://www.amiami.com/eng/detail/?gcode=FIGURE-138817',
-    'https://www.amiami.com/eng/detail?gcode=GOODS-04233282',
-    'https://www.amiami.com/eng/detail?gcode=GOODS-04233294',
-    'https://www.amiami.com/eng/detail/?gcode=GOODS-04229578',
-    'https://www.amiami.com/eng/detail/?gcode=FIGURE-138984', 
-    'https://www.amiami.com/eng/detail/?gcode=FIGURE-138817',
-    'https://www.amiami.com/eng/detail?gcode=GOODS-04233282',
-    'https://www.amiami.com/eng/detail?gcode=GOODS-04233294',
-    'https://www.amiami.com/eng/detail/?gcode=GOODS-04229578']
 
 Fumos =[
     Fumo.cirno,
@@ -25,6 +15,18 @@ Fumos =[
     Fumo.sanae,
     Fumo.sanae,
     Fumo.sanae,
+]
+
+Fumos1 = [
+    Fumo.test,
+    Fumo.test2,
+    Fumo.test3,
+    Fumo.test,
+    Fumo.test2,
+    Fumo.test3,
+    Fumo.test,
+    Fumo.test2,
+    Fumo.test3
 ]
 
 USERNAME = sys.argv[1]
@@ -39,5 +41,7 @@ def main():
         purchasers = list(executor.map(spawn_FumoPurchaser, Fumos))
 
 if __name__ == "__main__":
+    start = datetime.now()
     main()
     print(sys.argv)
+    print(datetime.now()-start)
