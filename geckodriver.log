@@ -5375,3 +5375,24 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1651108982437	geckodriver	INFO	Listening on 127.0.0.1:52819
+1651108985216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52826" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileeD6a7w"
+*** You are running in headless mode.
+1651108985526	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileMcLaJE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52817/devtools/browser/9d60a98d-393d-4f7f-ae85-424736cda54c
+1651108987198	Marionette	INFO	Listening on port 52866
+1651108987289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+ols/browser/f5d910d1-eda4-4420-b55d-33d84d65397c
+1651108987046	Marionette	INFO	Listening on port 52869
+1651108987288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+: no]
+  Stack:
+    deleteTask@resource://gre/modules/TaskSchedulerWinImpl.jsm:60:16
+deleteTask@resource://gre/modules/TaskScheduler.jsm:145:18
+maybeScheduleBackgroundUpdateTask@resource://gre/modules/BackgroundUpdate.jsm:469:31
+
+DevTools listening on ws://localhost:52822/devtools/browser/33c1f0dc-444e-4e9a-8655-d3b2b3562bed
+1651108987141	Marionette	INFO	Listening on port 52867
+1651108987289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session

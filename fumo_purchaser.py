@@ -20,7 +20,6 @@ CART_MATOME_2_SUBMIT = '[data-kanshi="cartMatome2Submit"]'
 CART_MATOME_3_SUBMIT = '[data-kanshi="cartMatome3Submit"]'
 
 PROCEED_TO_CHECKOUT_PAGE = 'https://secure.amiami.com/eng/cartmatome/1/'
-ERROR_PAGE = 'https://www.amiami.com/eng/error/'
 
 class FumoPurchaser():
     def __init__(self, fumo, username, password):
@@ -81,7 +80,7 @@ class FumoPurchaser():
     def check_for_error(self):
         sleep(1.25)
         #print(self.driver.current_url)
-        if self.driver.current_url != PROCEED_TO_CHECKOUT_PAGE or self.driver.current_url == ERROR_PAGE:
+        if self.driver.current_url != PROCEED_TO_CHECKOUT_PAGE:
             print(self.fumo.name, end='')
             print(' errored')
             self.run()
