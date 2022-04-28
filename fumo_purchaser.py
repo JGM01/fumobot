@@ -36,11 +36,13 @@ class FumoPurchaser():
     def run(self):
         try:
             self.purchase_fumo()
+            self.login()
             self.check_for_error()
             print(self.fumo.name, end='')
             print(' added to cart')
             self.confirm_purchase()
         except Exception as e:
+            print(self.driver.current_url)
             print(e)
         finally:
             self.driver.quit()
@@ -48,22 +50,22 @@ class FumoPurchaser():
             print(' exited')
 
     def login(self):
-        WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.NAME, 'email'))).send_keys(self.username)
-        WebDriverWait(self.driver, 20).until(EC.presence_of_element_located((By.NAME, 'password'))).send_keys(self.password)
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.btn-submit'))).click()
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, 'email'))).send_keys(self.username)
+        WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.NAME, 'password'))).send_keys(self.password)
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, '.btn-submit'))).click()
         
     def purchase_fumo(self):
         self.driver.get(self.fumo.value)
         self.idle()
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, PRODUCT_DETAIL_ADD_CART_8))).click()
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_SUBMIT))).click()
-        self.login()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, PRODUCT_DETAIL_ADD_CART_8))).click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_SUBMIT))).click()
+        #self.login()
     
     def confirm_purchase(self):
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_MATOME_1_SUBMIT))).click()
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.XPATH, CREDIT_CARD_LABEL))).click()
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, SHIPPING_METHOD_LABEL))).click()
-        WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_MATOME_2_SUBMIT))).click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_MATOME_1_SUBMIT))).click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, CREDIT_CARD_LABEL))).click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, SHIPPING_METHOD_LABEL))).click()
+        WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_MATOME_2_SUBMIT))).click()
         #WebDriverWait(self.driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, CART_MATOME_3_SUBMIT))).click()
     
     def idle(self):

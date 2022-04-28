@@ -5,28 +5,23 @@ from fumo_purchaser import FumoPurchaser
 from concurrent import futures
 from fumo import Fumo
 
-Fumos =[
+Fumos1 =[
     Fumo.cirno,
-    Fumo.cirno,
-    Fumo.cirno,
-    Fumo.koishi,
-    Fumo.koishi,
-    Fumo.koishi,
-    Fumo.sanae,
-    Fumo.sanae,
-    Fumo.sanae,
+    Fumo.chen,
+    Fumo.eirin,
+    Fumo.flandre
 ]
 
-Fumos1 = [
-    Fumo.test,
+Fumos = [
+    Fumo.test1,
     Fumo.test2,
     Fumo.test3,
-    Fumo.test,
-    Fumo.test2,
-    Fumo.test3,
-    Fumo.test,
-    Fumo.test2,
-    Fumo.test3
+    Fumo.test4,
+    Fumo.test5,
+    Fumo.test6,
+    Fumo.test7,
+    Fumo.test8,
+    Fumo.test9
 ]
 
 USERNAME = sys.argv[1]

@@ -26,6 +26,12 @@ class Fumo(enum.Enum):
     nitori = 'https://www.amiami.com/eng/detail/?gcode=GOODS-04163431'
     joon = 'https://www.amiami.com/eng/detail/?gcode=GOODS-04163433'
 
-    test = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233290'
+    test1 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233290'
     test2 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233279'
     test3 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233281'
+    test4 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233290'
+    test5 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233279'
+    test6 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233281'
+    test7 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233290'
+    test8 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233279'
+    test9 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04233281'
