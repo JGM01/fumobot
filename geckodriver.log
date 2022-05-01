@@ -5593,3 +5593,1916 @@ dules/PromiseWorker.jsm, line 106: Error: IOUtils: Shutting down and refusing ad
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1651350862596	geckodriver	INFO	Listening on 127.0.0.1:58491
+1651350865665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58490" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileVVHuWn"
+*** You are running in headless mode.
+1651350865935	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile7WH1Zl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58484/devtools/browser/05f9e8b5-6694-46db-98b7-b8e2930431e0
+1651350867433	Marionette	INFO	Listening on port 58541
+1651350867734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651350906970	Marionette	INFO	Stopped listening on port 58542
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651350901738	Marionette	INFO	Stopped listening on port 58544
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651366244090	geckodriver	INFO	Listening on 127.0.0.1:50480
+1651366247153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50483" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileEPrXRR"
+*** You are running in headless mode.
+1651366247462	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile3Q3feo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50474/devtools/browser/16a76411-48f7-4b01-8961-a3e1f3cccc82
+1651366248957	Marionette	INFO	Listening on port 50531
+1651366249250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651366286638	Marionette	INFO	Stopped listening on port 50525
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651366286111	Marionette	INFO	Stopped listening on port 50524
+[Parent 17756, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651366401519	geckodriver	INFO	Listening on 127.0.0.1:51448
+1651366404568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51446" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileCjKNu0"
+*** You are running in headless mode.
+1651366404877	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileEfnmpS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51445/devtools/browser/a29ed519-ac05-422d-99d3-0b0cc7df210f
+1651366406243	Marionette	INFO	Listening on port 51503
+1651366406675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651366439745	Marionette	INFO	Stopped listening on port 51500
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+mber is null
+1651366434992	Marionette	INFO	Stopped listening on port 51499
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ost
+
+1651367216618	geckodriver	INFO	Listening on 127.0.0.1:58951
+1651367219677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58966" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileqbuj52"
+*** You are running in headless mode.
+1651367220269	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilepN1VOp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58966/devtools/browser/06412b1d-b774-4c67-a644-46a02d9076fe
+1651367221727	Marionette	INFO	Listening on port 59011
+1651367222043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651367261660	Marionette	INFO	Stopped listening on port 59008
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+1651367430474	geckodriver	INFO	Listening on 127.0.0.1:59889
+1651367433551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59885" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilewexDE0"
+*** You are running in headless mode.
+1651367434204	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileNFzwUV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59902/devtools/browser/b9eed8e8-064e-46eb-8d68-21d9b9d6e14c
+1651367437304	Marionette	INFO	Listening on port 59982
+1651367437894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+1651367498333	Marionette	INFO	Stopped listening on port 59982
+[Parent 13796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+s message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message console.warn: LoginRecipes: 1651367499195	Marionette	INFO	Stopped listening on port 59994
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessag1651367504892	Marionette	INFO	Stopped listening on port 59989
+e to send/recv, messages will be lost
+
+/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+tore.state.member is nu1651367499645	Marionette	INFO	Stopped listening on port 59988
+92
+[Parent 13908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+0, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651368172639	geckodriver	INFO	Listening on 127.0.0.1:52048
+1651368175694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52059" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileOhzi6y"
+*** You are running in headless mode.
+1651368175937	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileNsRwAP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52051/devtools/browser/1bf12ff7-ebb0-4a20-bba2-572b0d93d078
+1651368177363	Marionette	INFO	Listening on port 53288
+1651368177731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651368209483	Marionette	INFO	Stopped listening on port 53285
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+eBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ort 52102
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651368344176	geckodriver	INFO	Listening on 127.0.0.1:53989
+1651368347218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53992" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile6Gavh0"
+*** You are running in headless mode.
+1651368347416	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileywbsD6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53990/devtools/browser/99eceaf9-7563-43ed-b856-fd46be14a7a4
+1651368348511	Marionette	INFO	Listening on port 55385
+1651368348751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651368376069	Marionette	INFO	Stopped listening on port 55385
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651369078114	geckodriver	INFO	Listening on 127.0.0.1:62177
+1651369081176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62179" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile2xhkwF"
+*** You are running in headless mode.
+1651369081364	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile7UZma4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62173/devtools/browser/4a535a96-09af-448d-b225-918c8f8ea368
+1651369082177	Marionette	INFO	Listening on port 63833
+1651369082216	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651369099680	Marionette	INFO	Stopped listening on port 63832
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+stening on port 62250
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651369285994	geckodriver	INFO	Listening on 127.0.0.1:64143
+1651369289052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64126" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilebfIlk3"
+*** You are running in headless mode.
+1651369289570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileyVK6BN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64126/devtools/browser/06b70d39-ea9c-4b65-8965-c93f0f97bca4
+1651369292378	Marionette	INFO	Listening on port 64239
+1651369292735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651369350127	Marionette	INFO	Stopped listening on port 64223
+JavaScript error: https://secure.amiami.com/_nuxt/app.9467e13620c54b8a7606.js, line 1: TypeError: e.response is undefined
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t 64238
+[Parent 37436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+nt.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651369324809	Marionette	INFO	Stopped listening on port 64234
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651369546010	geckodriver	INFO	Listening on 127.0.0.1:49893
+1651369549067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "49902" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileLB4p1m"
+*** You are running in headless mode.
+1651369549355	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileAwUzDk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49900/devtools/browser/80f8e9c2-368d-4b9b-9165-91e047a56795
+1651369550797	Marionette	INFO	Listening on port 49948
+1651369551124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651369591996	Marionette	INFO	Stopped listening on port 49948
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651369772227	geckodriver	INFO	Listening on 127.0.0.1:51012
+1651369775297	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "51002" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileahjGHV"
+*** You are running in headless mode.
+1651369775738	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileRhblZ6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50996/devtools/browser/6cdc438e-47ac-436b-8817-cf260b9463e3
+1651369778015	Marionette	INFO	Listening on port 51078
+1651369778444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651369837592	Marionette	INFO	Stopped listening on port 51077
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651370170465	geckodriver	INFO	Listening on 127.0.0.1:59186
+1651370173517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59187" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileMsvSpr"
+*** You are running in headless mode.
+1651370173869	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileMsvSpr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59187/devtools/browser/032f0610-d64c-488e-a1b9-af3462fed771
+1651370175780	Marionette	INFO	Listening on port 59252
+1651370176172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651370227459	Marionette	INFO	Stopped listening on port 59250
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunM1651370217289	Marionette	INFO	Stopped listening on port 59255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651371262830	geckodriver	INFO	Listening on 127.0.0.1:60652
+1651371265893	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60640" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilecDigiJ"
+*** You are running in headless mode.
+1651371266233	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilepHjdeM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60654/devtools/browser/9338c653-d732-4c51-afc7-12c3983913b4
+1651371268508	Marionette	INFO	Listening on port 60715
+1651371268580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651371315391	Marionette	INFO	Stopped listening on port 60709
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+tpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel clos
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651371550361	geckodriver	INFO	Listening on 127.0.0.1:62023
+1651371553412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62025" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilepj246Y"
+*** You are running in headless mode.
+1651371553568	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilepj246Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62025/devtools/browser/03f3c32f-8857-4287-a314-5680a08b9eb9
+1651371554220	Marionette	INFO	Listening on port 63358
+1651371554443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651371557416	Marionette	INFO	Stopped listening on port 63358
+[Parent 10768, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651371762525	geckodriver	INFO	Listening on 127.0.0.1:63473
+1651371765579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63481" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileILQu2Q"
+*** You are running in headless mode.
+1651371765944	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilebJBmlc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63480/devtools/browser/0c49e211-a14a-4333-9d75-ad5da3384404
+1651371768116	Marionette	INFO	Listening on port 63549
+1651371768246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651371811930	Marionette	INFO	Stopped listening on port 63540
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::MsgJavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651371814283	Marionette	INFO	Stopped listening on port 63538
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20572, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651372677349	geckodriver	INFO	Listening on 127.0.0.1:65132
+1651372680404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "65138" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile1EHMKJ"
+*** You are running in headless mode.
+1651372680762	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilepyVBLq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65130/devtools/browser/18b8b9c3-ca5a-45c7-b25d-ccbfe78980ca
+1651372682679	Marionette	INFO	Listening on port 65207
+1651372683056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651372723309	Marionette	INFO	Stopped listening on port 65205
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+m"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651372723045	Marionette	INFO	Stopped listening on port 65206
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+atome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651372721936	Marionette	INFO	Stopped listening on port 65203
+[Parent 34772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651372860378	geckodriver	INFO	Listening on 127.0.0.1:50218
+1651372863445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50215" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileaKM2UQ"
+*** You are running in headless mode.
+1651372863778	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile6UE9dD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50221/devtools/browser/78dde198-5a4f-48c6-8c94-8a9a94a75944
+1651372865873	Marionette	INFO	Listening on port 50283
+1651372866094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651372896738	Marionette	INFO	Stopped listening on port 50285
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+geParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651373080096	geckodriver	INFO	Listening on 127.0.0.1:55818
+1651373083134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55836" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileA8XRPH"
+*** You are running in headless mode.
+1651373083555	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileA8XRPH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55815/devtools/browser/504af9fc-704c-43b2-ab9c-8da28da46ef4
+1651373085595	Marionette	INFO	Listening on port 55893
+1651373085817	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651373126143	Marionette	INFO	Stopped listening on port 55893
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_SetPriority) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1105: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Jacob\AppData\Local\Temp\rust_mozprofile39HjPr\protections.sqlite
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651373219350	geckodriver	INFO	Listening on 127.0.0.1:57091
+1651373222386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "57097" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileqzTpQf"
+*** You are running in headless mode.
+1651373222563	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileqzTpQf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57097/devtools/browser/d7e10349-da9d-48f8-8a90-51f2738852eb
+1651373223400	Marionette	INFO	Listening on port 57984
+1651373223424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1651373228752	Marionette	INFO	Stopped listening on port 57984
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_FailedAsyncOpen) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_ReportFrameTimingData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1651373345128	geckodriver	INFO	Listening on 127.0.0.1:58219
+1651373348204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58224" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile88U8a8"
+*** You are running in headless mode.
+1651373348536	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilew7xViL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58207/devtools/browser/bbc2ecf8-410e-4e04-af24-646e85f4764e
+1651373350710	Marionette	INFO	Listening on port 58272
+1651373350849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: Typeconsole.warn: LoginRecipes: "geJavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373400798	Marionette	INFO	Stopped listening on port 58286
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/rec1651373401400	Marionette	INFO	Stopped listening on port 58285
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+g: too late to send/recv, messages will be lost
+
+
+1651373617391	geckodriver	INFO	Listening on 127.0.0.1:59765
+1651373620463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59760" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilee82MSH"
+*** You are running in headless mode.
+1651373620893	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileqKndE6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59772/devtools/browser/b367526c-4955-454c-88b3-8a0368a3878b
+1651373622889	Marionette	INFO	Listening on port 59840
+1651373623122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373675535	Marionette	INFO	Stopped listening on port 59844
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+t] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373662408	Marionette	INFO	Stopped listening on port 59838
+[Parent 28620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651373841635	geckodriver	INFO	Listening on 127.0.0.1:61248
+1651373844713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61227" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile3Igyno"
+*** You are running in headless mode.
+1651373845078	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileOoiDlx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61227/devtools/browser/bffdbde7-57d2-4f35-a2d2-6aa8b6605086
+1651373846959	Marionette	INFO	Listening on port 61312
+1651373847395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373902309	Marionette	INFO	Stopped listening on port 61299
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+e/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373903455	Marionette	INFO	Stopped listening on port 61311
+1651373912146	geckodriver	INFO	Listening on 127.0.0.1:62710
+1651373915232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62696" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilezAZrzH"
+*** You are running in headless mode.
+1651373915565	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilephj11b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62701/devtools/browser/cd9f765c-e1ed-49e6-a913-4626feaef581
+1651373917519	Marionette	INFO	Listening on port 62776
+1651373917884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373965206	Marionette	INFO	Stopped listening on port 62776
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+atome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651373956729	Marionette	INFO	Stopped listening on port 62781
+[Parent 33760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+e.member is null
+1651373949161	Marionette	INFO	Stopped listening on port 62771
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651374308277	geckodriver	INFO	Listening on 127.0.0.1:64317
+1651374311330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64306" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileHyy2D8"
+*** You are running in headless mode.
+1651374311598	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile0L0lay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64315/devtools/browser/455ccace-b311-4bb4-abd3-d67f509e0db5
+1651374313065	Marionette	INFO	Listening on port 64372
+1651374313386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+_production.js, line 1: ReferenceError: Rtoaster is not defined
+JavaScript error: https://www.amiami.com/js/Rtoaster.js, line 1: ReferenceError: Rtoaster is not defined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:52674
+1651374586045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52673" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileiKaKmM"
+*** You are running in headless mode.
+1651374586570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilefBwg2R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52670/devtools/browser/29769134-166b-4a8a-bb55-58c720964256
+1651374589186	Marionette	INFO	Listening on port 52731
+1651374589298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651374638525	Marionette	INFO	Stopped listening on port 52735
+[Parent 21060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 21060, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+or: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651375457591	geckodriver	INFO	Listening on 127.0.0.1:54302
+1651375460655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54305" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilexTUV2E"
+*** You are running in headless mode.
+1651375461148	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile9JocA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54287/devtools/browser/1e2c4fa8-84ae-4a05-b7f1-17081c0e8b4f
+1651375463495	Marionette	INFO	Listening on port 54352
+1651375489163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375514941	Marionette	INFO	Stopped listening on port 54358
+[Parent 32900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ta from Contile server: NetworkError when attempting to fetch resource.
+[Parent 26332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+been found
+1651375465765	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375465873	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375465980	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466086	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466192	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466299	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466407	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466517	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466623	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466732	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466837	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375466944	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467049	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467157	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467265	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467373	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467481	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467591	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467697	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467805	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375467911	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468024	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468173	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468391	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468561	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468679	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468787	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375468895	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469005	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469115	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469219	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469327	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469431	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469537	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469644	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469751	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469858	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375469964	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470070	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470179	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470286	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470392	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470498	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470606	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470712	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470820	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375470926	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471033	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471139	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471246	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471356	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471460	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471569	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471675	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471782	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471888	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375471998	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472105	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472215	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472322	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472431	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472539	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472649	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472754	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472864	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375472982	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473224	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473413	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473542	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473673	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473788	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473893	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375473998	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474110	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474215	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474319	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474425	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474532	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474638	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474746	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474855	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375474963	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475071	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475179	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475284	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475394	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475501	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475610	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475733	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475841	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375475946	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476057	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476161	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476267	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476373	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476479	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476585	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476692	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476804	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375476910	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477017	Marionette	WARN	Connection attempt denied because an active session has been found
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+1651375477125	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477230	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477337	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477442	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477550	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477657	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477763	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477875	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375477986	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478094	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478199	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478307	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478414	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478522	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478629	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478736	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478844	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375478960	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479082	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479193	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479301	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479408	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479516	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479625	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479734	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479843	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375479949	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480055	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480161	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480269	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480375	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480482	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480592	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480700	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480806	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375480915	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481024	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481130	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481237	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481343	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481450	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481556	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481662	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481774	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481883	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375481989	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482097	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482228	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482339	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482446	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482552	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482659	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482765	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482871	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375482976	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483083	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483189	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483297	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483407	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483512	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483620	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483726	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483832	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375483939	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484049	Marionette	WARN	Connection attempt denied because an active session has been found
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+1651375484157	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484302	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484416	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484526	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484634	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484739	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484855	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375484972	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485081	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485186	Marionette	WARN	Connection attempt denied because an active session has been found
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1651375485298	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485402	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485507	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485618	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485724	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485832	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375485939	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486047	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486155	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486265	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486372	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486479	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486587	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486691	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486798	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375486905	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487012	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487118	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487224	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487335	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487438	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487545	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487653	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487761	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487869	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375487977	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488083	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488190	Marionette	WARN	Connection attempt denied because an active session has been found
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375488297	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488403	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488509	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488615	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488724	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488833	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375488939	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375489047	Marionette	WARN	Connection attempt denied because an active session has been found
+1651375489097	Marionette	INFO	Stopped listening on port 54352
+[Parent 36532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 36532, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651375525731	geckodriver	INFO	Listening on 127.0.0.1:55694
+1651375528783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55696" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilewbcn9P"
+*** You are running in headless mode.
+1651375529252	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilebN17Vo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55687/devtools/browser/2d460d8d-e490-4d92-8dd7-8f872b5e5f78
+1651375531344	Marionette	INFO	Listening on port 55753
+1651375531596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375583786	Marionette	INFO	Stopped listening on port 55750
+[Parent 37188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 37188, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ocess_util_win.cc:167
+[Parent 25348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651375614583	geckodriver	INFO	Listening on 127.0.0.1:56839
+1651375617626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56847" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile41aoqB"
+*** You are running in headless mode.
+1651375618514	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilefj5TIz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56842/devtools/browser/9fe6d39c-3c85-44be-91f1-1675cbfe1967
+1651375620682	Marionette	INFO	Listening on port 56903
+1651375620749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375664002	Marionette	INFO	Stopped listening on port 56902
+[Parent 27836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+sm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375655019	Marionette	INFO	Stopped listening on port 56900
+[Parent 34760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 34760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651375749731	geckodriver	INFO	Listening on 127.0.0.1:58080
+1651375752769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58076" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileThtbCH"
+*** You are running in headless mode.
+1651375753245	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileMIOnj5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58079/devtools/browser/86fc374b-540b-413b-b002-e6825cbd2be7
+1651375755448	Marionette	INFO	Listening on port 58143
+1651375755948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375803529	Marionette	INFO	Stopped listening on port 58146
+[Parent 23176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ionette	INFO	Stopped listening on port 58145
+[Parent 27888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651375915843	geckodriver	INFO	Listening on 127.0.0.1:59342
+1651375918896	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "59346" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilebTVCTR"
+*** You are running in headless mode.
+1651375919361	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileSiJRCx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59346/devtools/browser/da147586-c320-42af-8094-0e89018d7c6a
+1651375921655	Marionette	INFO	Listening on port 59401
+1651375922061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651375963921	Marionette	INFO	Stopped listening on port 59400
+[Parent 20820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+rror: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651376097875	geckodriver	INFO	Listening on 127.0.0.1:60551
+1651376100936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "60542" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofiledD4aZU"
+*** You are running in headless mode.
+1651376101368	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileKQu7gr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60558/devtools/browser/b6a3cccb-b443-4407-b362-39d2b5ec5170
+1651376103642	Marionette	INFO	Listening on port 60598
+1651376104121	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651376147270	Marionette	INFO	Stopped listening on port 60614
+[Parent 21780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 21780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+nMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ilds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651376173357	geckodriver	INFO	Listening on 127.0.0.1:61778
+1651376176419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61790" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileAfZ98K"
+*** You are running in headless mode.
+1651376176833	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile0HqtSj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61791/devtools/browser/7561012f-4332-4891-9bba-db2c8b8eeeef
+1651376178932	Marionette	INFO	Listening on port 61843
+1651376179117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651376221575	Marionette	INFO	Stopped listening on port 61842
+[Parent 32556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32556, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+rror: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651376238372	geckodriver	INFO	Listening on 127.0.0.1:62971
+1651376241431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62981" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile87rGtB"
+*** You are running in headless mode.
+1651376241862	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilexwMjAR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62979/devtools/browser/95c1b98b-00fd-4fc0-87e8-b932f83382fd
+1651376244132	Marionette	INFO	Listening on port 63038
+1651376244575	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651376288486	Marionette	INFO	Stopped listening on port 63031
+[Parent 34288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 34288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651376656525	geckodriver	INFO	Listening on 127.0.0.1:53549
+1651376659589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "53547" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile43p0Bx"
+*** You are running in headless mode.
+1651376660286	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilegp96ae\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53544/devtools/browser/4fd606f1-d295-47a5-b305-f7552bdb49d2
+1651376662640	Marionette	INFO	Listening on port 53605
+1651376663022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651376714718	Marionette	INFO	Stopped listening on port 53606
+[Parent 32656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 32656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651376825209	geckodriver	INFO	Listening on 127.0.0.1:61636
+1651376828264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61639" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile8elcKk"
+*** You are running in headless mode.
+1651376828683	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileuTVD8H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61639/devtools/browser/790cc7f8-78c6-4de8-bb43-a7280720b2c1
+1651376831046	Marionette	INFO	Listening on port 61698
+1651376831436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651376875758	Marionette	INFO	Stopped listening on port 61692
+[Parent 13360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13360, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+se) Channel closing: too late to send/recv, messages will be lost
+
+1651377484988	geckodriver	INFO	Listening on 127.0.0.1:55406
+1651377488037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55414" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile15Z4sT"
+*** You are running in headless mode.
+1651377488742	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile15Z4sT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55412/devtools/browser/7d4a4758-1e19-4318-a353-bc2adc8cb191
+1651377491055	Marionette	INFO	Listening on port 55461
+1651377491443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651377544204	Marionette	INFO	Stopped listening on port 55469
+[Parent 31800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 31800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+nMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651377652340	geckodriver	INFO	Listening on 127.0.0.1:56756
+1651377655400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "56738" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileenwTCs"
+*** You are running in headless mode.
+1651377656193	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileGiSRYj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56761/devtools/browser/fea6734b-24d5-43d9-b12c-78e3e17042eb
+1651377660186	Marionette	INFO	Listening on port 56861
+1651377660626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651377732282	Marionette	INFO	Stopped listening on port 56826
+[Parent 30584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 30584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+_lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651377732982	Marionette	INFO	Stopped listening on port 56853
+[Parent 16468, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+"
+*** You are running in headless mode.
+1651377684021	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile3LpJcu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58041/devtools/browser/b1e650f6-6fed-478b-af62-3c0ed66259b9
+1651377685442	Marionette	INFO	Listening on port 58170
+1651377685718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651377717991	Marionette	INFO	Stopped listening on port 58170
+[Parent 6792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+r: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651377731655	Marionette	INFO	Stopped listening on port 58552
+[Parent 25648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 25648, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1651378639571	geckodriver	INFO	Listening on 127.0.0.1:52615
+1651378642633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52619" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileEVcB0z"
+*** You are running in headless mode.
+1651378643093	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileoVVmig\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52609/devtools/browser/1a6ef2ba-504c-4122-857a-f4e55e2ade7e
+1651378645276	Marionette	INFO	Listening on port 52666
+1651378645328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1651378698078	Marionette	INFO	Stopped listening on port 52674
+[Parent 3836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
