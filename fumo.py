@@ -38,4 +38,7 @@ class Fumo(enum.Enum):
     test10 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04234119'
     test11 = 'https://www.amiami.com/eng/detail?gcode=FIGURE-139634'
     test12 = 'https://www.amiami.com/eng/detail?gcode=FIGURE-139639'
-    test13 = 'https://www.amiami.com/eng/detail?gcode=FIGURE-139638'
+    test13 = 'https://www.amiami.com/eng/detail?gcode=MED-CD2-41204'
+    test14 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04234978'
+    test15 = 'https://www.amiami.com/eng/detail?gcode=FIGURE-137626'
+    test16 = 'https://www.amiami.com/eng/detail?gcode=GOODS-04234996'

@@ -7506,3 +7506,195 @@ JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a85
 
 ###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
 
+1652039339315	geckodriver	INFO	Listening on 127.0.0.1:62124
+1652039342409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "62122" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilel1x80z"
+*** You are running in headless mode.
+1652039342795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileBrOnpE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62121/devtools/browser/654cef47-6080-418e-8d35-e76e76291406
+1652039344403	Marionette	INFO	Listening on port 62177
+1652039344489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039401897	Marionette	INFO	Stopped listening on port 62176
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039387142	Marionette	INFO	Stopped listening on port 62182
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652039425270	geckodriver	INFO	Listening on 127.0.0.1:63280
+1652039428320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "63293" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilePHViXO"
+*** You are running in headless mode.
+1652039428704	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilePHViXO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63278/devtools/browser/21f4af1a-ef7a-42fa-96e0-7c0ce990c90f
+1652039430327	Marionette	INFO	Listening on port 63349
+1652039430424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039480035	Marionette	INFO	Stopped listening on port 63340
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+atome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039459660	Marionette	INFO	Stopped listening on port 63347
+1652039548136	geckodriver	INFO	Listening on 127.0.0.1:64491
+1652039551187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "64483" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofiletNZxR1"
+*** You are running in headless mode.
+1652039551591	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileyIGrb1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64493/devtools/browser/88b370f2-363f-45e1-a927-71f1bb16bbcd
+1652039553840	Marionette	INFO	Listening on port 64552
+1652039554344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039613037	Marionette	INFO	Stopped listening on port 64559
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+nMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652039956616	geckodriver	INFO	Listening on 127.0.0.1:50621
+1652039959672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50624" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileZTRbrr"
+*** You are running in headless mode.
+1652039960067	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileamR9QV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50626/devtools/browser/d9885862-8b9c-4951-96c2-16656cc8a416
+1652039962067	Marionette	INFO	Listening on port 50968
+1652039962374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652040018218	Marionette	INFO	Stopped listening on port 50968
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+
+1652040000252	Marionette	INFO	Stopped listening on port 50959
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+arn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652039987330	Marionette	INFO	Stopped listening on port 50962
+1652040550061	geckodriver	INFO	Listening on 127.0.0.1:52438
+1652040553113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52426" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilelZaNhr"
+*** You are running in headless mode.
+1652040553470	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilelZaNhr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52426/devtools/browser/ad40d796-111c-4953-9b95-b6da87095528
+1652040555138	Marionette	INFO	Listening on port 52951
+1652040555190	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652040605968	Marionette	INFO	Stopped listening on port 52951
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+nMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+ falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652040583056	Marionette	INFO	Stopped listening on port 52945
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652041145843	geckodriver	INFO	Listening on 127.0.0.1:54219
+1652041148884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "54205" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileA9sdMh"
+*** You are running in headless mode.
+1652041149198	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileA9sdMh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54205/devtools/browser/ce4adb31-72ce-4efb-81ea-5ce4e9449587
+1652041150590	Marionette	INFO	Listening on port 55132
+1652041150952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652041185829	Marionette	INFO	Stopped listening on port 55129
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+s/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652041159203	Marionette	INFO	Stopped listening on port 54266
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652041354540	geckodriver	INFO	Listening on 127.0.0.1:55812
+1652041357601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "55821" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileadykZm"
+*** You are running in headless mode.
+1652041358135	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile0F2MPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55816/devtools/browser/ba7999ef-5abb-4061-bb79-97159ebe86b3
+1652041360580	Marionette	INFO	Listening on port 55895
+1652041360783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScrconsole.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.1652041417743	Marionette	INFO	Stopped listening on port 55901
+gerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+te" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofiletoalEU"
+*** You are running in headless mode.
+1652041395656	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofiletoalEU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57358/devtools/browser/ff50a822-3130-49c3-af03-3ec40844a78d
+1652041396279	Marionette	INFO	Listening on port 57396
+1652041396483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652041834856	geckodriver	INFO	Listening on 127.0.0.1:58218
+1652041837909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "58217" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofileEZXqNu"
+*** You are running in headless mode.
+1652041838248	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofile99IgOs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58221/devtools/browser/0df52878-c627-4298-bbf9-14461deb79fa
+1652041841078	Marionette	INFO	Listening on port 58852
+1652041841562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous

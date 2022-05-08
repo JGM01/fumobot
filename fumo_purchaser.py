@@ -23,9 +23,9 @@ PROCEED_TO_CHECKOUT_PAGE = 'https://secure.amiami.com/eng/cartmatome/1/'
 
 class FumoPurchaser():
     def __init__(self, fumo, username, password):
-        driver_options = Options()
-        driver_options.add_argument('--headless')
-        self.driver = webdriver.Firefox(options=driver_options)
+        #driver_options = Options()
+        #driver_options.add_argument('--headless')
+        #self.driver = webdriver.Firefox(options=driver_options)
         #self.driver = webdriver.Firefox()
         self.fumo = fumo
         self.username = username
@@ -34,22 +34,28 @@ class FumoPurchaser():
         print(self.fumo.name)
 
     def run(self):
-        try:
-            done = False
-            while(not done):
+
+        done = False
+        while(not done):
+            try:
+                driver_options = Options()
+                driver_options.add_argument('--headless')
+                self.driver = webdriver.Firefox(options=driver_options)
                 self.purchase_fumo()
                 self.login()
                 self.check_for_error()
                 self.confirm_purchase()
+            except Exception as e:
+                self.driver.quit()
+                self.debug(self.driver.current_url, ' bugged out')
+                #print(e)
+                self.run()
+            finally:
+                #self.driver.quit()
+                print(self.fumo.name, end='')
+                print(' exited')
                 done = True
-        except Exception as e:
-            self.debug(self.driver.current_url, ' bugged out')
-            #print(e)
-            self.run()
-        finally:
-            self.driver.quit()
-            print(self.fumo.name, end='')
-            print(' exited')
+
 
     def login(self):
         WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((By.NAME, 'email'))).send_keys(self.username)
@@ -101,7 +107,7 @@ class FumoPurchaser():
                 self.driver.refresh()
                 wait = 10
                 print(self.fumo.name, end='')
-                print(' refreshed at '+ btn)
+                print(' refreshed at '+ btn + 'at ' + self.driver.current_url)
                 continue
             except Exception as e:
                 self.debug(self.driver.current_url, ' bugged out in idle')

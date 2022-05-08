@@ -16,7 +16,8 @@ Fumos =[
     Fumo.test8,
     Fumo.test9,
     Fumo.test10,
-    Fumo.test11
+    Fumo.test11,
+    Fumo.test12
 ]
 
 USERNAME = sys.argv[1]
