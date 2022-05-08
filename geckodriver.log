@@ -7697,4 +7697,20 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
-console.warn: LoginRecipes: "getRecipes: falling back to a synchronous
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
+1652041986688	geckodriver	INFO	Listening on 127.0.0.1:61959
+1652041989754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "61965" "-no-remote" "-profile" "C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilerRGhLx"
+*** You are running in headless mode.
+1652041990262	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Jacob\\AppData\\Local\\Temp\\rust_mozprofilerRGhLx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61962/devtools/browser/3c202ae3-d2f3-47f1-b552-ca3bd425ed15
+1652041993663	Marionette	INFO	Listening on port 62024
+1652041993961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://secure.amiami.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://secure.amiami.com/_nuxt/pages__lang_cartmatome_2.f6a8598347f44059e473.js, line 1: TypeError: t.$store.state.member is null
